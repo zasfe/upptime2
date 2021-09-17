@@ -3,16 +3,27 @@ owner: zasfe # Your GitHub organization or username, where this repository lives
 repo: upptime2 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+#  - name: Google
+#    url: https://www.google.com
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
   - name: zasfe.com
     url: https://zasfe.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
+  - name: wiki.zasfe.com
+    url: https://wiki.zasfe.com
+    icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
+  - name: pr.wiki.zasfe.com
+    url: https://pr.wiki.zasfe.com
+    icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
+  - name: zasfe.github.io
+    url: https://zasfe.github.io
+    icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
