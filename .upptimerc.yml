@@ -18,7 +18,7 @@ sites:
     url: https://wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
   - name: pr.wiki.zasfe.com
-    url: https://pr.wiki.zasfe.com
+    url: http://pr.wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
   - name: zasfe.github.io
     url: https://zasfe.github.io
