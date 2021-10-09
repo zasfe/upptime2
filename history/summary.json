@@ -4,54 +4,60 @@
     "url": "https://zasfe.com",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "zasfe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2031,
-    "timeDay": 2032,
-    "timeWeek": 2097,
-    "timeMonth": 2031,
-    "timeYear": 2031,
-    "dailyMinutesDown": {}
+    "time": 1968,
+    "timeDay": 1054,
+    "timeWeek": 1845,
+    "timeMonth": 1968,
+    "timeYear": 1968,
+    "dailyMinutesDown": {
+      "2021-10-09": 0
+    }
   },
   {
     "name": "wiki.zasfe.com",
     "url": "https://wiki.zasfe.com",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-zasfe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 494,
-    "timeWeek": 543,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 509,
+    "timeDay": 292,
+    "timeWeek": 486,
+    "timeMonth": 509,
+    "timeYear": 509,
+    "dailyMinutesDown": {
+      "2021-10-09": 0
+    }
   },
   {
     "name": "pr.wiki.zasfe.com",
     "url": "http://pr.wiki.zasfe.com",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "pr-wiki-zasfe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 399,
-    "timeWeek": 385,
-    "timeMonth": 376,
-    "timeYear": 376,
-    "dailyMinutesDown": {}
+    "time": 361,
+    "timeDay": 213,
+    "timeWeek": 340,
+    "timeMonth": 361,
+    "timeYear": 361,
+    "dailyMinutesDown": {
+      "2021-10-09": 0
+    }
   },
   {
     "name": "zasfe.github.io",
