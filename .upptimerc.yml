@@ -14,13 +14,13 @@ sites:
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
-  - name: wiki.zasfe.com
+  - name: Wiki - https://wiki.zasfe.com/
     url: https://wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
-  - name: pr.wiki.zasfe.com
+  - name: Wiki - http://pr.wiki.zasfe.com
     url: http://pr.wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
-  - name: zasfe.github.io
+  - name: Blog - https://zasfe.github.io
     url: https://zasfe.github.io
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
 
