@@ -35,13 +35,15 @@ status-website:
   logoUrl: https://zasfe.github.io/assets/images/cover_48x48.png
   favicon: https://zasfe.github.io/assets/logo.ico/favicon.ico
   name: Zasfe's Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** for Zasfe"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Zasfe가 사용하는 사이트들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
