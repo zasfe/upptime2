@@ -27,9 +27,9 @@
     "url": "https://wiki.zasfe.com",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -39,6 +39,7 @@
     "timeMonth": 596,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2022-04-24": 0,
       "2022-04-03": 32,
       "2021-10-25": 38
     }
