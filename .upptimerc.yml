@@ -17,8 +17,8 @@ sites:
   - name: Wiki - https://wiki.zasfe.com/
     url: https://wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
-  - name: Wiki - http://pr.wiki.zasfe.com
-    url: http://pr.wiki.zasfe.com
+  - name: Wiki - http://wiki.zasfe.com
+    url: http://wiki.zasfe.com
     icon: https://zasfe.github.io/assets/logo.ico/favicon.ico
   - name: Blog - https://zasfe.github.io
     url: https://zasfe.github.io
