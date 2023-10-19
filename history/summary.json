@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "92.03%",
-    "time": 2262,
-    "timeDay": 1999,
-    "timeWeek": 1634,
-    "timeMonth": 1777,
-    "timeYear": 2065,
+    "uptimeYear": "92.30%",
+    "time": 2261,
+    "timeDay": 1556,
+    "timeWeek": 1646,
+    "timeMonth": 1768,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2023-10-02": 628,
       "2023-10-01": 1440,
@@ -50,8 +50,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -60,14 +59,14 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "93.66%",
+    "uptimeYear": "93.93%",
     "time": 495,
-    "timeDay": 465,
-    "timeWeek": 448,
+    "timeDay": 462,
+    "timeWeek": 447,
     "timeMonth": 522,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -96,8 +95,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -106,14 +104,14 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "79.93%",
+    "uptime": "80.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.93%",
-    "uptimeYear": "79.93%",
+    "uptimeMonth": "80.61%",
+    "uptimeYear": "80.61%",
     "time": 231,
-    "timeDay": 227,
-    "timeWeek": 218,
+    "timeDay": 233,
+    "timeWeek": 217,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -138,8 +136,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 43,
-    "timeWeek": 90,
+    "timeDay": 122,
+    "timeWeek": 96,
     "timeMonth": 102,
     "timeYear": 96,
     "dailyMinutesDown": {}
