@@ -5,16 +5,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "zasfe-com",
     "status": "up",
-    "uptime": "95.67%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "92.58%",
-    "time": 2260,
-    "timeDay": 1567,
-    "timeWeek": 1612,
-    "timeMonth": 1756,
-    "timeYear": 2062,
+    "uptimeYear": "92.85%",
+    "time": 2258,
+    "timeDay": 1649,
+    "timeWeek": 1646,
+    "timeMonth": 1754,
+    "timeYear": 2061,
     "dailyMinutesDown": {
       "2023-10-02": 628,
       "2023-10-01": 1440,
@@ -48,8 +48,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -58,15 +57,15 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "94.21%",
-    "time": 495,
-    "timeDay": 387,
-    "timeWeek": 426,
-    "timeMonth": 519,
+    "uptimeYear": "94.48%",
+    "time": 494,
+    "timeDay": 477,
+    "timeWeek": 441,
+    "timeMonth": 520,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2023-10-02": 628,
@@ -92,8 +91,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -102,15 +100,15 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "81.24%",
+    "uptime": "81.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "81.24%",
+    "uptimeYear": "81.84%",
     "time": 230,
-    "timeDay": 188,
-    "timeWeek": 212,
-    "timeMonth": 229,
+    "timeDay": 251,
+    "timeWeek": 221,
+    "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-10-02": 628,
@@ -134,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 168,
-    "timeWeek": 113,
-    "timeMonth": 100,
-    "timeYear": 96,
+    "timeDay": 107,
+    "timeWeek": 110,
+    "timeMonth": 98,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   }
 ]
