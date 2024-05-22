@@ -116,19 +116,19 @@
     "url": "https://zasfe.github.io",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "blog-https-zasfe-github-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 8380,
-    "timeWeek": 2175,
-    "timeMonth": 617,
+    "timeDay": 5605,
+    "timeWeek": 1939,
+    "timeMonth": 599,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-05-22": 0
+      "2024-05-22": 6
     }
   }
 ]
