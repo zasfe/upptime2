@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.17%",
-    "time": 1815,
-    "timeDay": 2261,
-    "timeWeek": 1949,
-    "timeMonth": 1788,
-    "timeYear": 1753,
+    "uptimeYear": "95.24%",
+    "time": 1816,
+    "timeDay": 1496,
+    "timeWeek": 1881,
+    "timeMonth": 1769,
+    "timeYear": 1752,
     "dailyMinutesDown": {
       "2024-03-28": 353,
       "2024-03-27": 323,
@@ -38,8 +38,7 @@
       "2023-06-12": 132,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 1440,
-      "2023-06-08": 1440
+      "2023-06-09": 1440
     }
   },
   {
@@ -52,11 +51,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.85%",
     "time": 493,
-    "timeDay": 535,
-    "timeWeek": 544,
-    "timeMonth": 508,
+    "timeDay": 616,
+    "timeWeek": 549,
+    "timeMonth": 509,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2024-03-28": 349,
@@ -73,8 +72,7 @@
       "2023-06-12": 132,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 1440,
-      "2023-06-08": 1440
+      "2023-06-09": 1440
     }
   },
   {
@@ -83,16 +81,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.52%",
-    "time": 236,
-    "timeDay": 324,
-    "timeWeek": 282,
-    "timeMonth": 254,
-    "timeYear": 236,
+    "uptimeYear": "97.53%",
+    "time": 237,
+    "timeDay": 356,
+    "timeWeek": 296,
+    "timeMonth": 257,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-03-28": 350,
       "2024-03-27": 320,
@@ -119,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 37,
-    "timeWeek": 57,
-    "timeMonth": 580,
+    "timeDay": 102,
+    "timeWeek": 65,
+    "timeMonth": 582,
     "timeYear": 129,
     "dailyMinutesDown": {}
   }
