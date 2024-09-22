@@ -4,7 +4,7 @@
     "url": "https://zasfe.com",
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "zasfe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "96.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1768,
     "timeYear": 1805,
     "dailyMinutesDown": {
+      "2024-09-22": 0,
       "2024-07-27": 253,
       "2024-07-26": 17,
       "2024-03-28": 353,
