@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.17%",
-    "time": 1785,
-    "timeDay": 1144,
-    "timeWeek": 1608,
-    "timeMonth": 1784,
-    "timeYear": 1803,
+    "time": 1783,
+    "timeDay": 1128,
+    "timeWeek": 1600,
+    "timeMonth": 1756,
+    "timeYear": 1801,
     "dailyMinutesDown": {
       "2024-07-27": 253,
       "2024-07-26": 17,
@@ -28,8 +28,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 408
+      "2023-09-27": 1440
     }
   },
   {
@@ -38,15 +37,15 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
-    "time": 561,
-    "timeDay": 388,
-    "timeWeek": 471,
-    "timeMonth": 503,
+    "time": 560,
+    "timeDay": 356,
+    "timeWeek": 460,
+    "timeMonth": 497,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-07-02": 62,
@@ -59,8 +58,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 407
+      "2023-09-27": 1440
     }
   },
   {
@@ -69,15 +67,15 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
     "time": 289,
-    "timeDay": 174,
-    "timeWeek": 217,
-    "timeMonth": 283,
+    "timeDay": 173,
+    "timeWeek": 218,
+    "timeMonth": 280,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2024-07-02": 60,
@@ -90,8 +88,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 405
+      "2023-09-27": 1440
     }
   },
   {
@@ -106,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 126,
-    "timeWeek": 114,
-    "timeMonth": 104,
+    "timeDay": 150,
+    "timeWeek": 117,
+    "timeMonth": 106,
     "timeYear": 131,
     "dailyMinutesDown": {}
   }
