@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.54%",
-    "time": 1785,
-    "timeDay": 1359,
-    "timeWeek": 1685,
-    "timeMonth": 1753,
-    "timeYear": 1801,
+    "uptimeYear": "98.81%",
+    "time": 1784,
+    "timeDay": 1397,
+    "timeWeek": 1632,
+    "timeMonth": 1756,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2024-07-27": 253,
       "2024-07-26": 17,
@@ -24,8 +24,7 @@
       "2024-02-07": 123,
       "2024-02-06": 280,
       "2023-10-02": 628,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -34,14 +33,14 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
-    "time": 560,
-    "timeDay": 370,
-    "timeWeek": 468,
+    "uptimeYear": "98.86%",
+    "time": 559,
+    "timeDay": 383,
+    "timeWeek": 444,
     "timeMonth": 494,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -51,8 +50,7 @@
       "2024-02-07": 123,
       "2024-02-06": 279,
       "2023-10-02": 628,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -61,16 +59,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.86%",
     "time": 288,
-    "timeDay": 187,
-    "timeWeek": 232,
-    "timeMonth": 279,
-    "timeYear": 290,
+    "timeDay": 163,
+    "timeWeek": 213,
+    "timeMonth": 274,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2024-07-02": 60,
       "2024-03-28": 350,
@@ -78,8 +76,7 @@
       "2024-02-07": 123,
       "2024-02-06": 277,
       "2023-10-02": 628,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -93,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 203,
-    "timeWeek": 118,
-    "timeMonth": 113,
+    "time": 125,
+    "timeDay": 191,
+    "timeWeek": 137,
+    "timeMonth": 115,
     "timeYear": 131,
     "dailyMinutesDown": {}
   }
