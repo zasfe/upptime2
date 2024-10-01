@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 1785,
-    "timeDay": 2261,
-    "timeWeek": 1600,
-    "timeMonth": 1769,
-    "timeYear": 1801,
+    "uptimeYear": "99.36%",
+    "time": 1786,
+    "timeDay": 2049,
+    "timeWeek": 1729,
+    "timeMonth": 1756,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2024-07-27": 253,
       "2024-07-26": 17,
@@ -22,8 +22,7 @@
       "2024-03-27": 323,
       "2024-03-22": 15,
       "2024-02-07": 123,
-      "2024-02-06": 280,
-      "2023-10-02": 628
+      "2024-02-06": 280
     }
   },
   {
@@ -36,19 +35,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.41%",
     "time": 560,
-    "timeDay": 538,
-    "timeWeek": 442,
-    "timeMonth": 493,
-    "timeYear": 593,
+    "timeDay": 524,
+    "timeWeek": 462,
+    "timeMonth": 495,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2024-07-02": 62,
       "2024-03-28": 349,
       "2024-03-27": 321,
       "2024-02-07": 123,
-      "2024-02-06": 279,
-      "2023-10-02": 628
+      "2024-02-06": 279
     }
   },
   {
@@ -57,14 +55,14 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.41%",
     "time": 288,
-    "timeDay": 248,
-    "timeWeek": 216,
+    "timeDay": 246,
+    "timeWeek": 226,
     "timeMonth": 273,
     "timeYear": 289,
     "dailyMinutesDown": {
@@ -72,8 +70,7 @@
       "2024-03-28": 350,
       "2024-03-27": 320,
       "2024-02-07": 123,
-      "2024-02-06": 277,
-      "2023-10-02": 628
+      "2024-02-06": 277
     }
   },
   {
@@ -87,9 +84,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 85,
-    "timeWeek": 136,
+    "time": 124,
+    "timeDay": 97,
+    "timeWeek": 132,
     "timeMonth": 116,
     "timeYear": 131,
     "dailyMinutesDown": {}
