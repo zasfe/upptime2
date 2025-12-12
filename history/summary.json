@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "71.54%",
-    "time": 995,
-    "timeDay": 694,
-    "timeWeek": 745,
-    "timeMonth": 734,
+    "uptimeYear": "71.81%",
+    "time": 994,
+    "timeDay": 845,
+    "timeWeek": 783,
+    "timeMonth": 733,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-11-18": 69,
@@ -121,8 +121,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -136,10 +135,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "76.81%",
-    "time": 554,
-    "timeDay": 612,
-    "timeWeek": 713,
-    "timeMonth": 726,
+    "time": 555,
+    "timeDay": 924,
+    "timeWeek": 758,
+    "timeMonth": 729,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-11-18": 69,
@@ -237,16 +236,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "76.83%",
     "time": 319,
-    "timeDay": 291,
-    "timeWeek": 453,
-    "timeMonth": 908,
-    "timeYear": 330,
+    "timeDay": 706,
+    "timeWeek": 512,
+    "timeMonth": 918,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2025-11-18": 69,
       "2025-03-28": 1103,
@@ -350,9 +349,9 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 147,
-    "timeWeek": 142,
-    "timeMonth": 134,
-    "timeYear": 128,
+    "timeWeek": 143,
+    "timeMonth": 137,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
