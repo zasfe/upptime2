@@ -5,16 +5,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "zasfe-com",
     "status": "up",
-    "uptime": "90.17%",
+    "uptime": "90.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.85%",
-    "uptimeYear": "80.40%",
-    "time": 1210,
-    "timeDay": 684,
-    "timeWeek": 716,
-    "timeMonth": 4299,
-    "timeYear": 1176,
+    "uptimeYear": "80.67%",
+    "time": 1208,
+    "timeDay": 560,
+    "timeWeek": 692,
+    "timeMonth": 4294,
+    "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 283,
@@ -90,8 +90,7 @@
       "2025-01-22": 1401,
       "2025-01-21": 1428,
       "2025-01-20": 1407,
-      "2025-01-19": 1409,
-      "2025-01-18": 1413
+      "2025-01-19": 1409
     }
   },
   {
@@ -100,16 +99,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-https-wiki-zasfe-com",
     "status": "up",
-    "uptime": "92.17%",
+    "uptime": "92.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "80.40%",
+    "uptimeYear": "80.67%",
     "time": 777,
-    "timeDay": 728,
-    "timeWeek": 686,
-    "timeMonth": 3437,
-    "timeYear": 873,
+    "timeDay": 551,
+    "timeWeek": 657,
+    "timeMonth": 3432,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 275,
@@ -184,8 +183,7 @@
       "2025-01-22": 1393,
       "2025-01-21": 1408,
       "2025-01-20": 1407,
-      "2025-01-19": 1373,
-      "2025-01-18": 1422
+      "2025-01-19": 1373
     }
   },
   {
@@ -194,16 +192,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.52%",
-    "uptimeYear": "80.40%",
-    "time": 557,
-    "timeDay": 243,
-    "timeWeek": 349,
-    "timeMonth": 3144,
-    "timeYear": 650,
+    "uptimeYear": "80.66%",
+    "time": 558,
+    "timeDay": 465,
+    "timeWeek": 382,
+    "timeMonth": 3147,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 251,
@@ -279,8 +277,7 @@
       "2025-01-22": 1325,
       "2025-01-21": 1413,
       "2025-01-20": 1409,
-      "2025-01-19": 1385,
-      "2025-01-18": 1426
+      "2025-01-19": 1385
     }
   },
   {
@@ -295,10 +292,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 276,
-    "timeWeek": 153,
-    "timeMonth": 129,
-    "timeYear": 119,
+    "timeDay": 165,
+    "timeWeek": 159,
+    "timeMonth": 130,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   }
 ]
