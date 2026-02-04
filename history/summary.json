@@ -5,16 +5,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "zasfe-com",
     "status": "up",
-    "uptime": "90.27%",
+    "uptime": "90.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.01%",
+    "uptimeYear": "85.29%",
     "time": 1155,
-    "timeDay": 759,
-    "timeWeek": 666,
-    "timeMonth": 1481,
-    "timeYear": 1260,
+    "timeDay": 664,
+    "timeWeek": 687,
+    "timeMonth": 1484,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 283,
@@ -73,8 +73,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -87,12 +86,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.01%",
+    "uptimeYear": "85.28%",
     "time": 830,
-    "timeDay": 788,
-    "timeWeek": 666,
-    "timeMonth": 665,
-    "timeYear": 979,
+    "timeDay": 746,
+    "timeWeek": 695,
+    "timeMonth": 670,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 275,
@@ -150,8 +149,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -160,16 +158,16 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "89.36%",
+    "uptime": "89.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.99%",
+    "uptimeYear": "85.26%",
     "time": 609,
-    "timeDay": 264,
-    "timeWeek": 254,
-    "timeMonth": 316,
-    "timeYear": 718,
+    "timeDay": 603,
+    "timeWeek": 312,
+    "timeMonth": 330,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 251,
@@ -228,8 +226,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -244,9 +241,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 100,
-    "timeWeek": 111,
-    "timeMonth": 131,
+    "timeDay": 86,
+    "timeWeek": 113,
+    "timeMonth": 129,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
