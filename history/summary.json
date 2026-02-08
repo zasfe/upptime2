@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.11%",
+    "uptimeYear": "86.39%",
     "time": 1159,
-    "timeDay": 518,
-    "timeWeek": 909,
-    "timeMonth": 1528,
-    "timeYear": 1270,
+    "timeDay": 628,
+    "timeWeek": 896,
+    "timeMonth": 1524,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 283,
@@ -69,8 +69,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -83,12 +82,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.10%",
+    "uptimeYear": "86.38%",
     "time": 830,
-    "timeDay": 547,
+    "timeDay": 637,
     "timeWeek": 712,
-    "timeMonth": 675,
-    "timeYear": 985,
+    "timeMonth": 674,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2025-12-31": 54,
       "2025-12-26": 275,
@@ -142,8 +141,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -152,15 +150,15 @@
     "icon": "https://zasfe.github.io/assets/logo.ico/favicon.ico",
     "slug": "wiki-http-wiki-zasfe-com",
     "status": "up",
-    "uptime": "89.41%",
+    "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.08%",
-    "time": 610,
-    "timeDay": 188,
-    "timeWeek": 347,
-    "timeMonth": 344,
+    "uptimeYear": "86.36%",
+    "time": 609,
+    "timeDay": 236,
+    "timeWeek": 351,
+    "timeMonth": 331,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-12-31": 54,
@@ -216,8 +214,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -232,9 +229,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 125,
-    "timeWeek": 90,
-    "timeMonth": 124,
+    "timeDay": 152,
+    "timeWeek": 98,
+    "timeMonth": 126,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
